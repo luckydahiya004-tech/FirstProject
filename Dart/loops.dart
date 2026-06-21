@@ -1,4 +1,22 @@
 void main(){
+
+  //1.for(start point; ending/conditing point; increment++/decrement--)
+  //start point nad end point chose for loop
+  
+  //Print numbers 1 to 10
+  for(int i = 1; i <= 10; i++){
+    //task
+    print("The number is $i");
+  }
+  //Print numbers 10 to 1
+  for (int y = 10; y >= 1; y--){
+    print("The no is $y");
+  }
+
+
+
+
+
   //While Loop - Entry Controlled Loop - While Loop Start ondition is True and Stop when condition is False
   int count =1;
   while(count <=5){
