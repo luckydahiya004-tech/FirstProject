@@ -1,0 +1,3 @@
+Food,120.0
+Cloths,2000.0
+coffee bill,4000.0
